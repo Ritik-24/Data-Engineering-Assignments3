@@ -1,4 +1,4 @@
-This repository contains the complete documentation and code developed during my 5-week data engineering internship with Celebal Technologies.
+This repository contains the complete documentation and code developed during my 8-week data engineering internship with Celebal Technologies.
 
 Project Structure:
 
