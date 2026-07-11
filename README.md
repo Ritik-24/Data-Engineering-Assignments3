@@ -15,3 +15,5 @@ WEEK 5: Data Cleaning
 WEEK 6: Spark Intro
 
 WEEK 7: DATABRICKS
+
+PROJECT: Customer Support ticket pipeline resolution
